@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.reizx.localcache.core.configuration.ReadConfiguration,\
+  com.reizx.localcache.core.configuration.WriteConfiguration

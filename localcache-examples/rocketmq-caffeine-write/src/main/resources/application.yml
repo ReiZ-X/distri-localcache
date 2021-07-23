@@ -1,0 +1,7 @@
+server:
+  port: 8081
+distribute:
+  localcache:
+    broadcaster:
+      rocketmq:
+        name-addr: 10.1.20.58:9876

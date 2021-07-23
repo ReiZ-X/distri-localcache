@@ -1,0 +1,8 @@
+server:
+  port: 8082
+
+distribute:
+  localcache:
+    listener:
+      rocketmq:
+        name-addr: 10.1.20.58:9876
